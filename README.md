@@ -1,3 +1,3 @@
 # conet
- Circle Overlap Network
+# Circle Overlap Network
 Our code will be publicly available soon.
