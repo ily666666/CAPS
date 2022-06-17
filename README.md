@@ -1,3 +1,2 @@
-# conet
-# Circle Overlap Network
+# CAPS
 Our code will be publicly available soon.
